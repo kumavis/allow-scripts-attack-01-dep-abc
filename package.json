@@ -1,0 +1,14 @@
+{
+  "name": "allow-scripts-attack-01-dep-abc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keccak": "git+https://github.com/kumavis/allow-scripts-attack-01-dep-keccak.git"
+  }
+}
