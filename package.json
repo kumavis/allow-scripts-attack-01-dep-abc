@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "keccak": "git+https://github.com/kumavis/allow-scripts-attack-01-dep-keccak.git"
+    "keccak": "kumavis/allow-scripts-attack-01-dep-keccak"
   }
 }
